@@ -1,6 +1,6 @@
 # 🚀 AI-powered-Conversational-Database-Assistant-RAG-LangChain
 
-[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](#) &nbsp;&nbsp;&nbsp;
+[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](https://www.python.org/downloads/) &nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bhumika-shrivas-08a27724a/) &nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:ybhumikashrivas.work@example.com)
 
