@@ -1,8 +1,9 @@
 # 🚀 AI-powered-Conversational-Database-Assistant-RAG-LangChain
 
-**Language:** Python  
-**Stars:** ★  
-**Connect:** [LinkedIn](https://www.linkedin.com/in/bhumika-shrivas-08a27724a) | [Email](mailto:bhumikashrivas.work@gmail.com)
+[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](#) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bhumika-shrivas-08a27724a/) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:ybhumikashrivas.work@example.com)
+
 
 ---
 
