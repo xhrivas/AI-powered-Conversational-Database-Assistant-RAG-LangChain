@@ -39,17 +39,17 @@ Say goodbye to manual queries and hello to **interactive, conversational databas
 ---
 
 ## ⚡ Quick Start Guide
-
-### ✅ Step 1: Install Requirements
 ```bash
+### ✅ Step 1: Install Requirements
+
 pip install -r requirements.txt
 
 ### ✅ Step 2: Configure API Key
-```bash
+
 pip install -r requirements.txt
 
 ✅ Step 2: Configure API Key
-```bash
+
 
 Open app.py → Line 12 → Paste your API Key:
 
