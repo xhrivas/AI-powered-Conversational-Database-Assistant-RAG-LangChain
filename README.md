@@ -40,11 +40,11 @@ Say goodbye to manual queries and hello to **interactive, conversational databas
 
 ## ⚡ Quick Start Guide
 ```bash
-### ✅ Step 1: Install Requirements
+✅ Step 1: Install Requirements
 
 pip install -r requirements.txt
 
-### ✅ Step 2: Configure API Key
+✅ Step 2: Configure API Key
 
 pip install -r requirements.txt
 
