@@ -20,7 +20,7 @@ Say goodbye to manual queries and hello to **interactive, conversational databas
 ---
 
 ## 🎥 Demo
-📺 Check out the demo here → [Demo Video Link](#)
+📺 Check out the demo here → [Demo Video Link](https://drive.google.com/file/d/17ZfOg3d0bUnlLJItj7aNxRNjyTRRzsTj/view)
 
 ---
 
