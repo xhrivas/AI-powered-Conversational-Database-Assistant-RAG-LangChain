@@ -9,7 +9,21 @@ import mysql.connector
 import streamlit as st
 
 # Configure Google Generative AI with your API key
-genai.configure(api_key="your_API_KEY")
+import streamlit as st
+import google.generativeai as genai
+
+# Load API key from Streamlit secrets
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+
+# Configure Google Generative AI
+genai.configure(api_key=GEMINI_API_KEY)
+
+# Load MySQL secrets
+db_host = st.secrets["mysql"]["host"]
+db_port = st.secrets["mysql"]["port"]
+db_user = st.secrets["mysql"]["user"]
+db_pass = st.secrets["mysql"]["password"]
+db_name = st.secrets["mysql"]["database"]
 
 
 # Load the Gemini 1.5 Flash model from Google's Generative AI
@@ -216,3 +230,4 @@ if question :
         (Generate_Output(question,host, port, Username, password,  database))
         # st.chat_message("assistant").markdown(question)
     
+
