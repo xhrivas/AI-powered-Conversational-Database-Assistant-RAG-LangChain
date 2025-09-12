@@ -1,5 +1,4 @@
-# AI-powered-Conversational-Database-Assistant-RAG-LangChain
-# 🚀 RAG-CHATBOT-FOR-NATURAL-LANGUAGE-DATABASE-INTERACTION
+# 🚀 AI-powered-Conversational-Database-Assistant-RAG-LangChain
 
 **Language:** Python  
 **Stars:** ★  
