@@ -9,7 +9,7 @@
 
 ## 🧠 About the Project
 Welcome to the **RAG Chatbot** — a smart assistant that allows you to **query databases using plain English**!  
-Powered by **LangChain, LangGraph, and LlamaIndex**, it can:
+It can:
 
 - 🔹 Transform natural language questions into SQL queries  
 - 🔹 Fetch and process database results  
